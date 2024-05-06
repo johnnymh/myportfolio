@@ -1,0 +1,29 @@
+.profilepic{
+    border-radius: 50%;
+}
+
+.resumeSVGs{
+    width: 50px;
+    padding: 5px;
+}
+
+.svgparent{
+    border-radius: 10px;
+}
+
+.mybtn{
+    color: whitesmoke;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mybtn2nd{
+    gap: 5px;
+    color: black;
+}
+
+.btn-outline-secondary:hover{
+    background-color: lightgray !important;
+}
